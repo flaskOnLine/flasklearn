@@ -39,7 +39,18 @@ Hello Git
 - git commit
     - 提交文件到本地仓库
     - 记得写提交日志
+    - git commit -m "描述"
 - git push
     - 推送代码
     - git push origin main
     - 将当前代码推送到远端对应的分支
+- git log
+    - 代码提交日志
+    
+- 分支
+    - git branch
+        - git branch 分支名 只是创建分支，没有切换到指定分支
+        - git checkout 分支名 切换到指定分支名
+    - git checkout
+        - git checkout -b 分支名
+        - 创建并切换到指定分支上
