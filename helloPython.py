@@ -3,7 +3,7 @@ print("helloPython")
 print("努力学习，天天向上")
 
 print("TPP")
-b = "hello flask"
+b = "hello"
 print(b)
 
 print("branch")
@@ -11,5 +11,6 @@ print("branch")
 a = "harvey"
 print(a, "came from China")
 
+c = "world is nice"
 c = "world is beautiful"
 print(c)
