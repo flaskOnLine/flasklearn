@@ -64,3 +64,7 @@ Hello Git
         - 更新代码
         - 从远端服务器获取最新代码
         - git pull origin 分支名
+        
+    - git merge
+        - 合并分支
+        
