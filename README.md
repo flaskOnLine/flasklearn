@@ -54,3 +54,13 @@ Hello Git
     - git checkout
         - git checkout -b 分支名
         - 创建并切换到指定分支上
+        
+    - git push origin 分支名
+        - 将当前分支推送到远端
+            - 推送不一定成功
+            - git set-upstream origin 分支名
+            
+    - git pull
+        - 更新代码
+        - 从远端服务器获取最新代码
+        - git pull origin 分支名
